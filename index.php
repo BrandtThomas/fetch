@@ -12,5 +12,6 @@
         <input type="submit" id="submit" name="submit">
     </form>
     <script src="script/script.js"></script>
+    <h1>bonjour</h1>
 </body>
 </html>
